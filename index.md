@@ -99,7 +99,7 @@ sections:
         categories:
           - title: Programming & web development
             skills:
-              - image: assets/img/skills/java.png
+              - image: assets/img/skills/Java.png
                 caption: Java
               - image: assets/img/skills/python.png
                 caption: Python
