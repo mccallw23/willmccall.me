@@ -2,15 +2,15 @@
 header:
 - title: About me
   url: /#about
-- title: Research
-  url: /#research
 - title: Software
   url: /#software
+- title: Projects
+  url: /#Projects
 - title: Contact
   url: /#contact
 
 # NOTE: additional item added last in _includes/nav.html:
-#  - title: CV
+#  - title: Resume
 #    url: site.data.cv_path
 
 # can't reference site variables in data files
