@@ -25,7 +25,7 @@ sections:
     section_id: about
     background_style: bg-secondary
     title: About me
-    before_text: I'm an Undergraduate majoring in Computer Science and math, with a minor in Human Centered Design.  I'm interested in logic, puzzles, games, and all things computer science related.
+    before_text: I'm an Undergraduate majoring in Computer Science and Math, with a minor in Human Centered Design.  I'm interested in logic, puzzles, games, and all things computer science related.
     panes:
       - type: bio-timeline.html
         title: Bio
@@ -99,7 +99,7 @@ sections:
         categories:
           - title: Programming & web development
             skills:
-              - image: assets/img/skills/java.png
+              - image: assets/img/skills/Java.png
                 caption: Java
               - image: assets/img/skills/python.png
                 caption: Python
