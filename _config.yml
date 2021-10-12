@@ -1,0 +1,38 @@
+# Site settings
+# Values are accessed from HTML files via {{ site.value }}
+title: Will McCall
+description: >- # ignore newlines until "baseurl:"
+  My personal website
+baseurl: "" # site subpath, e.g. /blog
+url: "" # base hostname & protocol, e.g. http://example.com
+lang: en_US
+
+author: 'Will McCall &copy; 2021'
+email: william.l.mccall.23@dartmouth.edu
+phone: (203) 231-6666
+address: 3225 Hinman @ Dartmouth College, Hanover, NH, 03755-4055
+github: https://github.com/mccallw23
+linkedin: https://www.linkedin.com/in/williamlmccall/
+#twitter: https://twitter.com/paxt0n4
+cv_path: assets/files/William-McCall-Resume-Oct-2021.pdf
+#lab_website: https://www.context-lab.com/
+google_analytics:
+  id: UA-169319829-1
+  enabled: false
+
+# Build settings
+safe: true
+markdown: kramdown
+sass:
+  indentWidth: 4
+  style: compressed
+  precision: 10
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .idea
+  - node_modules
