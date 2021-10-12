@@ -1,7 +1,7 @@
 # Will McCall
 October 6, 2021
 
-This repository was designed to showcase my web portfolio.  It was created using the ruby jekyll framework in conjunction with javascript, html, and markdown.
+This repository was designed to showcase my web portfolio.  It was created using the ruby jekyll framework in conjunction with javascript, html, and markdown and is optimized for maintainability and modularity.
 
 # Particles.js
 
