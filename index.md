@@ -25,29 +25,22 @@ sections:
     section_id: about
     background_style: bg-secondary
     title: About me
-    before_text: I'm an Undergraduate majoring in Computer Science and Math, with a minor in Human Centered Design.  I'm interested in logic, puzzles, games, and all things computer science related.
     panes:
       - type: bio-timeline.html
         title: Bio
-        before_text: I am graduating [Dartmouth College](https://home.dartmouth.edu/){:target="_blank"} in 2023.
-         Currently, I'm a Research Assistant in the
-         [Contextual Dynamics Lab](https://context-lab.com/){:target="_blank"} where I do stock market dynamics research.  I am also an Object Oriented programming TA for the
-         [Dartmouth Computer Science Department](https://web.cs.dartmouth.edu/){:target="_blank"} where I help teach Algorithms and Data Structures in Java.
+        before_text: As a junior at [Dartmouth College](https://home.dartmouth.edu/){:target="_blank"}, majoring in Computer Science and Math and minoring in Human Centered Design, I am currently a Research Assistant in the [Contextual Dynamics Lab](https://context-lab.com/){:target="_blank"} and a TA for the [Dartmouth CS Department](https://web.cs.dartmouth.edu/){:target="_blank"}.
         bio_paragraphs:
-          - text: I have always had a curious, creative, and entrepreneurial spirit and a passion for technology. Growing up, I had the opportunity to work in the Westport Public Library as a 3D printer coach, where I met a diverse array of interesting people while developing an interest in STEAM.
+          - text: I have always had a curious, creative, and entrepreneurial spirit and a passion for technology. Growing up, I developed an interest in STEAM while volunteering as a 3D printer coach in the Westport Library MakerSpace.
             image: assets/img/bio/me.png
-          - text: These interests led me to pursue a degree in Computer Science and Math with a minor in Human Centered Design at Dartmouth College, and quickly fall in
-             love with the power and versatility of computers.  I began working for the
-             [Dartmouth Computer Science Department](https://web.cs.dartmouth.edu/){:target="_blank"}, as a TA for various classes
-             where I helped to lead and educate new Computer Science Majors, as well as for [Varsity Tutors](http://bregman.dartmouth.edu/){:target="_blank"}, where I had the privilege of teaching a class of over 1000 people on the principles of redstone logic in minecraft.
+          - text: These interests led me to pursue a degree in Computer Science at Dartmouth College, where I joined the Entrepreneurship Living Community, and began working for the [Dartmouth Computer Science Department](https://web.cs.dartmouth.edu/){:target="_blank"} as a TA, helping college and graduate students learn Object Oriented Programming, Data Structures, and Web Development.  Using concepts from these classes, I implemented a prediction market trading bot, which identifies arbitrage opportunities in multi contract prediction markets with low liquidity, and is available on [GitHub](https://github.com/mccallw23/PredictBot){:target="_blank"}.
             image: assets/img/bio/dartmouth.png
           - text: I then joined the [Contextual Dynamics Lab](https://www.context-lab.com/){:target="_blank"}
              (PI&#58; [Dr. Jeremy Manning](https://pbs.dartmouth.edu/people/jeremy-rothman-manning){:target="_blank"})
-             as a presidential research scholar interested in uncovering parallels between Neural activity and Stock Market Dynamics.
-             I worked with NumPy and Pandas to help create a PCA model for dimensionality reduction on stock market data and subsequent analysis of
-             the predictive value of high order correlations.
+             as a Presidential Research Scholar studying parallels between neural activity and stock market dynamics.
+             Working with NumPy and Pandas, I helped create a PCA model for dimensionality reduction on stock market data and subsequently analyze
+             the predictive value of high order price correlations, with the end goal of building a trading AI.  
             image: assets/img/bio/cdl-logo.png
-          - text: My newest interest is in Software Engineering. I recently joined [Cavnue](https://www.cavnue.com/){:target="_blank"}, an Alphabet company working on autonomous vehicle infrastructure solutions, as a Software Engineering/Product Management intern for the Fall.  Currently, I am interested in FinTech, Full Stack Development, Machine Learning, Simulated Worlds, and Upcoming technologies and am currently looking to further explore one of these interests in an Internship for the Summer of 2022.
+          - text: I will shortly be joining [Cavnue](https://www.cavnue.com/){:target="_blank"}, an Alphabet company working on autonomous vehicle infrastructure solutions, as a Business Strategy Intern for the Fall.  My other interests include Financial Technology, Full Stack Development, Machine Learning, 3D printing, Virtual Reality, and UI/UX design, and am currently looking to apply myself in one of these disciplines in an Internship for the Summer of 2022.
             image: assets/img/bio/WillClass.png
         timeline:
           start: 2018
@@ -56,15 +49,15 @@ sections:
           - title: Senior Class President, Green's Farm's Academy
             start: 2018.25
             end: 2019.75
-            color: 00693E
+            color: 083D77
           - title: Varsity Soccer Captain, Green's Farm's Academy
             start: 2018.5
             end: 2018.75
-            color: 643C20
+            color: 38302E
           - title: Varsity T&F Captain, Green's Farm's Academy
             start: 2019.25
             end: 2019.5
-            color: C4DD88
+            color: 38302Eh
           - title: Undergraduate CS/Math Major, Dartmouth College
             start: 2019.75
             end: 2022
@@ -72,27 +65,27 @@ sections:
           - title: Private Tutor, Intro to Computer Science
             start: 2020
             end: 2020.25
-            color: 267ABA
+            color: B7A196
           - title: Founded/Operated WeTutorCT.com
             start: 2020.5
             end: 2021
-            color: A9DBB8
+            color: B7A196
           - title: Teaching Assistant, Object Oriented Programming @ Dartmouth
             start: 2021
             end: 2022
-            color: A9DBB8
+            color: EDD4B2
           - title: Presidential Scholar, Contextual Dynamics Lab
             start: 2021.5
             end: 2022
-            color: F5dC69
+            color: EDD4B2
           - title: Teaching Assistant, Web Development @ Tuck Business School
             start: 2021.75
             end: 2022
-            color: E32d1C
+            color: EDD4B2
           - title: Lead Tutor, Varsity Tutors
             start: 2020.5
             end: 2021.5
-            color: 003C73
+            color: B7A196
 
       - type: skills.html
         title: Skills
