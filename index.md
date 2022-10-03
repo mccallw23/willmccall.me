@@ -23,7 +23,7 @@ header:
 sections:
   - type: chat.html
     section_id: chat
-    background_style: bg-primary
+    background_style: bg-secondary
     title: Chat with my Hiring Advocate bot
   - type: multipane.html
     section_id: about
