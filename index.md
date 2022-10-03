@@ -21,10 +21,14 @@ header:
       site_data: cv_path
 
 sections:
-  - type: chat.html
-    section_id: chat
-    background_style: bg-secondary
+  - type: multipane.html\
+    section_id: chatpane
+    background_style: bg-primary
     title: Chat with my Hiring Advocate bot
+    panes:
+    - type: chat.html
+    section_id: chat
+    background_style: bg-primary
   - type: multipane.html
     section_id: about
     background_style: bg-secondary
