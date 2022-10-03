@@ -21,6 +21,9 @@ header:
       site_data: cv_path
 
 sections:
+  - type: chat.html
+    section_id: chat
+    background_style: bg-primary
   - type: multipane.html
     section_id: about
     background_style: bg-secondary
@@ -28,7 +31,7 @@ sections:
     panes:
       - type: bio-timeline.html
         title: Bio
-        before_text: As a junior at [Dartmouth College](https://home.dartmouth.edu/){:target="_blank"}, majoring in Computer Science and Math and minoring in Human Centered Design, I am currently a Research Assistant in the [Contextual Dynamics Lab](https://context-lab.com/){:target="_blank"} and a TA for the [Dartmouth CS Department](https://web.cs.dartmouth.edu/){:target="_blank"}.
+        before_text: As a junior at [Dartmouth College](https://home.dartmouth.edu/){:target="_blank"}, majoring in Computer Science and minoring in Human Centered Design, I am currently a Research Assistant in the [Contextual Dynamics Lab](https://context-lab.com/){:target="_blank"} and a TA for the [Dartmouth CS Department](https://web.cs.dartmouth.edu/){:target="_blank"}.
         bio_paragraphs:
           - text: I have always had a curious, creative, and entrepreneurial spirit and a passion for technology. Growing up, I developed an interest in STEAM while volunteering as a 3D printer coach in the Westport Library MakerSpace.
             image: assets/img/bio/me.png
@@ -40,7 +43,7 @@ sections:
              Working with NumPy and Pandas, I helped create a PCA model for dimensionality reduction on stock market data and subsequently analyze
              the predictive value of high order price correlations, with the end goal of building a trading AI.  
             image: assets/img/bio/cdl-logo.png
-          - text: I will shortly be joining [Cavnue](https://www.cavnue.com/){:target="_blank"}, an Alphabet company working on autonomous vehicle infrastructure solutions, as a Business Strategy Intern for the Fall.  My other interests include Financial Technology, Full Stack Development, Machine Learning, 3D printing, Virtual Reality, and UI/UX design, and am currently looking to apply myself in one of these disciplines in an Internship for the Summer of 2022.
+          - text: This fall, I joined [Canopy](https://www.heycanopy.com/){:target="_blank"}, As a Software engineering intern for the fall, where I helped to improve the User Interface Design through designing an implementing changes to the code base.  My other interests include Financial Technology, Full Stack Development, Machine Learning, 3D printing, Virtual Reality, and UI/UX design, and am currently looking to apply myself in one of these disciplines in an Internship for the Summer of 2022.
             image: assets/img/bio/WillClass.png
         timeline:
           start: 2018
