@@ -24,7 +24,7 @@ sections:
   - type: chat.html
     section_id: chat
     background_style: bg-primary
-    title: Chat with my Hiring bot (it will try to convince you to hire me)!
+    title: Chat with my Hiring Advocate bot
   - type: multipane.html
     section_id: about
     background_style: bg-secondary
