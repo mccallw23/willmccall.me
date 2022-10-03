@@ -22,13 +22,6 @@ header:
 
 sections:
   - type: multipane.html
-    section_id: chatpane
-    background_style: bg-primary
-    panes:
-    - type: chat.html
-    section_id: chat
-    background_style: bg-primary
-  - type: multipane.html
     section_id: about
     background_style: bg-secondary
     title: About me
