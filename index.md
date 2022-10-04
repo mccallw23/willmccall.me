@@ -21,6 +21,9 @@ header:
       site_data: cv_path
 
 sections:
+  - type: chat.html
+    section_id: chat
+    title: Chat with my hiring advocate!
   - type: multipane.html
     section_id: about
     background_style: bg-secondary
@@ -140,10 +143,6 @@ sections:
                 caption: Public speaking
               - image: assets/img/skills/leadership.png
                 caption: Organizational leadership
-                
-  - type: chat.html
-    section_id: chat
-    title: Chat with my hiring advocate!
 
   - type: multipane.html
     section_id: software
