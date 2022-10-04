@@ -21,6 +21,9 @@ header:
       site_data: cv_path
 
 sections:
+  - type: chat.html
+    section_id: chat
+    title: Chat
   - type: multipane.html
     section_id: about
     background_style: bg-secondary
