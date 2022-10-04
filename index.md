@@ -21,11 +21,6 @@ header:
       site_data: cv_path
 
 sections:
- - type: contact.html
-    section_id: chat
-    background_style: bg-primary
-    title: Get in touch
-    map_embed: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d887.7520702351038!2d-72.28938200098564!3d43.70400570266627!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb4c9dd4f758911%3A0xbdb8574c4db908cc!2sDartmouth%20College!5e0!3m2!1sen!2sus!4v1633558523587!5m2!1sen!2sus
   - type: multipane.html
     section_id: about
     background_style: bg-secondary
