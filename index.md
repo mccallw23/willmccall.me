@@ -24,6 +24,7 @@ sections:
   - type: chat.html
     section_id: chat
     title: Chat with my hiring advocate!
+    background_style: bg-secondary
   - type: multipane.html
     section_id: about
     background_style: bg-secondary
