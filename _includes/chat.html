@@ -1,5 +1,23 @@
 
-<section id="{{ section.section_id }}" class="page-section {{ section.background_style }}">
+<style>
+    .chatFade {
+        animation: fadeInAnimation ease 3s;
+        animation-iteration-count: 1;
+        animation-fill-mode: forwards;
+    }
+
+    @keyframes fadeInAnimation {
+        0% {
+            opacity: 0;
+        }
+
+        100% {
+            opacity: 1;
+        }
+    }
+</style>
+
+<section id="{{ section.section_id }}" class="chatFade page-section {{ section.background_style }}">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-12 text-center">
