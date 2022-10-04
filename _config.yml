@@ -17,7 +17,7 @@ linkedin: https://www.linkedin.com/in/williamlmccall/
 cv_path: assets/files/William-McCall-Resume-Oct-2021.pdf
 #lab_website: https://www.context-lab.com/
 google_analytics:
-  id: UA-169319829-1
+  id: standin
   enabled: false
 
 # Build settings
