@@ -32,7 +32,7 @@ sections:
     panes:
       - type: bio-timeline.html
         title: Bio
-        before_text: As a senior at [Dartmouth College](https://home.dartmouth.edu/){:target="_blank"}, majoring in Computer Science and minoring in Human Centered Design, I am currently the Automations Lead for the  in the [DALI lab](http://dali.dartmouth.edu/){:target="_blank"} and a former full stack web development intern for[Canopy](https://www.heycanopy.com/){:target="_blank"}.  I am also the Tech lead for DartMart, a food delivery app for rural college campuses, with over 1000 users at Dartmouth College.
+        before_text: As a senior at [Dartmouth College](https://home.dartmouth.edu/){:target="_blank"}, majoring in Computer Science and minoring in Human Centered Design, I am currently the Automations Lead for the  in the [DALI lab](http://dali.dartmouth.edu/){:target="_blank"} and a former full stack web development intern for [Canopy](https://www.heycanopy.com/){:target="_blank"}.  I am also the Tech lead for DartMart, a food delivery app for rural college campuses, with over 1000 users at Dartmouth College.
         bio_paragraphs:
           - text: I have always had a curious, creative, and entrepreneurial spirit and a passion for technology. Growing up, I developed an interest in STEAM while volunteering as a 3D printer coach in the Westport Library MakerSpace.
             image: assets/img/bio/me.png
